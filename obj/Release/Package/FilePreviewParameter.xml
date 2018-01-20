@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="TodoApp20180115110533" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Farhan\ Ansari\\Downloads\\todomvc-aspnet-master\\todomvc-aspnet-master\\code\\TodoApp\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Farhan\ Ansari\\Downloads\\todomvc-aspnet-master\\todomvc-aspnet-master\\code\\TodoApp\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-TodoApp-20151031084134.mdf;Initial Catalog=aspnet-TodoApp-20151031084134;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Farhan\ Ansari\\Downloads\\todomvc-aspnet-master\\todomvc-aspnet-master\\code\\TodoApp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>
