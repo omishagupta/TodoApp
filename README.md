@@ -5,10 +5,8 @@ requiring the least cognition load on user.
 This application allows users to keep track of tasks. 
 These tasks include:
 
-__a description__, 
-**A boolean value indicating whether the task has been completed or not**
-**Every task can be edited or deleted**
+- __a description__, 
+- **A boolean value indicating whether the task has been completed or not**
+- **Every task can be edited or deleted**
 
 *Happy task tracking!*
-
-
